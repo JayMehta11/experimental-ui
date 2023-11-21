@@ -16,7 +16,7 @@ const End2 = () => {
       <Typography variant="h5" sx={{mt:3}}>
         <b>IMPORTANT: </b>
         <Link
-          href="https://prolific.co"
+          href="https://google.com"
           color="primary"
           underline="none"
           sx={{ cursor: "pointer" }}
